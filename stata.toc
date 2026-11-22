@@ -1,0 +1,3 @@
+v 3
+d Multiple hypothesis testing in Stata
+p fdrq False discovery rate q-values for regression-based tests

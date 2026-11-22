@@ -1,0 +1,7 @@
+v 3
+d fdrq: Multiple hypothesis testing with false discovery rate q-values
+d Calculates ordinary BH and sharpened BKY q-values for families of regression-based tests.
+d Distribution-Date: 20261118
+d Version: 0.6.0-dev; native Stata certification pending
+f fdrq.ado
+f fdrq.sthlp
