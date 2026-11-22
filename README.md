@@ -23,7 +23,7 @@ fdrq: estimator (outcomes) [regressors] [if] [in] [weight], coefficients(list) [
 
 Keep the parentheses around the outcome list, even for a single outcome.
 Use one invocation per hypothesis family. Type `help fdrq` for the full
-documentation and clickable examples.
+documentation.
 
 | Option | Description |
 |---|---|
